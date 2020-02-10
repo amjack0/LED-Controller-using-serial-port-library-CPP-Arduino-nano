@@ -45,3 +45,7 @@ eg. If the applied force is more that threshold force, then LED would turn RED.
 https://www.youtube.com/watch?v=8BWjyZxGr5o
 
 
+# Experiment Set-up
+![](images/IMG_3653.JPG)
+
+
