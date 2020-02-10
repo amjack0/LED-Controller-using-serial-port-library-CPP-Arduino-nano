@@ -32,7 +32,7 @@ make sure you install the required Adafruit libraries for LED ws2812b.
 3) clone the above project1 into your local repository.
 4) Before you run the file, make sure to specify the port name. Mine is com4. To see your port name, open ```Arduino IDE > tools > port``` Then select your board ```Arduino IDE > tools > Board: arduino nano``` (as we are using arduino nano). 
 5) select the ```Arduino IDE > tools > processor > (old bootloader)``` (as we are using FAKE arduino nano)
-6) compile the IDE file and upload using Arduino IDE.
+6) compile and upload the Arduino sketch using Arduino IDE.
 7) compile c++ files and watch for errors.
 
 Here we have written a class led_controller which takes force data as input and turn the LED green, red and orange using methods.
@@ -42,5 +42,6 @@ eg. If the applied force is more that threshold force, then LED would turn RED.
 
 # Acknowledgments
 
+https://www.youtube.com/watch?v=8BWjyZxGr5o
 
 
