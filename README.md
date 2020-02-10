@@ -9,6 +9,7 @@ sending commands to arduino nano to control the LED stripws2812b.
 # Prerequisites and hardware required
 
 Arduino nano + LED ws2812b strip + jumper wires + Power supply (5v- 3.6 A) - recommended.\
+power supply which I have used can be found under; https://joy-it.net/en/products/SBC-POW-BB
 Note that, here we are using 60 leds which requires 3.6 A (for 60 pixels) which means, we need 60 mA per pixel.
 
 # Test Environment
@@ -20,3 +21,6 @@ Windows 10 + Arduino IDE + Code Block IDE (Works with any IDE).
 To begin with LED ws2812b , It is recommended to watch this video https://www.youtube.com/watch?v=9hJyyUTflXA
 make sure you install the required Adafruit libraries for LED ws2812b.
 
+# Running a project
+
+Make sure you have all the connections made with arduino nano + power supply + LED ws2812b.
