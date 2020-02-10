@@ -14,7 +14,10 @@ Note that, here we are using 60 leds which requires 3.6 A (for 60 pixels) which 
 
 # Test Environment
 
-Windows 10 + Arduino IDE + Code Block IDE (Works with any IDE).
+Windows 10 + Arduino IDE + Code Block IDE (Works with any IDE).\
+Arduino IDE can be installed here: https://www.arduino.cc/en/main/software \
+Code Block IDE can be installed here: http://www.codeblocks.org/downloads/binaries \
+for installation instruction for code block IDE can be found here: https://www.youtube.com/watch?v=aS5_jrIbKmA
 
 # Installation & Setup
 
