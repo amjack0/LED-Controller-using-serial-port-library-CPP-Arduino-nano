@@ -29,7 +29,6 @@ make sure you install the required Adafruit libraries for LED ws2812b.
 1) Make sure you have all the connections made with arduino nano + power supply + LED ws2812b
 2) While making connections, make sure to connect ground first.
 3) clone the above project1 into your local repository.
-4) Before you run the file, make sure to specify the port name. Mine is com4. To see your port name, open ```Arduino IDE > tools > port``` \ 
-\5)Then select your board ```Arduino IDE > tools > Board: arduino nano``` (as we are using arduino nano) 
-6) select the ```Arduino IDE > tools > processor > (old bootloader)``` (as we are using FAKE arduino nano)
+4) Before you run the file, make sure to specify the port name. Mine is com4. To see your port name, open ```Arduino IDE > tools > port``` Then select your board ```Arduino IDE > tools > Board: arduino nano``` (as we are using arduino nano). 
+5) select the ```Arduino IDE > tools > processor > (old bootloader)``` (as we are using FAKE arduino nano)
 
