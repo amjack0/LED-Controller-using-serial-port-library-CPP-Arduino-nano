@@ -4,7 +4,7 @@ This repository is created to control LED ws2812b with c++ using serial port lib
 # Getting Started
 A project which enables a serial communication between arduino nano and c++ file. Idea behind this is that\
 arduino can not process the information, this problem is overcome by using c++ file to process the information and then\
-sending commands to arduino nano to control the LED stripws2812b.
+sending commands to arduino nano to control the LED strip ws2812b.
 
 # Prerequisites and hardware required
 
